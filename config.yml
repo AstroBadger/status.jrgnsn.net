@@ -132,10 +132,16 @@ params:
   systems:
     - name: jrgnsn.net
       description: My main blog and website.
+      category: Uncategorized
     - name: photos.jrgnsn.net
       description: My personal, anti-social, photo-sharing site.
+      category: Uncategorized
     - name: paste.jrgnsn.net
       description: A PrivateBin instance.
+      category: Uncategorized
+    - name: znc.jrgnsn.net
+      description: My personal ZNC server.
+      category: Uncategorized
 
   # What date format to use?
   #
