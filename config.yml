@@ -133,15 +133,22 @@ params:
     - name: jrgnsn.net
       description: My main blog and website.
       category: Uncategorized
+      partial: custom/jrgnsn.net_badges
     - name: photos.jrgnsn.net
       description: My personal, anti-social, photo-sharing site.
       category: Uncategorized
+      partial: custom/photos.jrgnsn.net_badges
     - name: paste.jrgnsn.net
       description: A PrivateBin instance.
       category: Uncategorized
+      partial: custom/paste.jrgnsn.net_badges
+    - name: wiki.jrgnsn.net
+      category: Uncategorized
+      description: A personal MediaWiki.
     - name: znc.jrgnsn.net
       description: My personal ZNC server.
       category: Uncategorized
+      partial: custom/znc.jrgnsn.net_badges
 
   # What date format to use?
   #
