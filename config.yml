@@ -270,7 +270,7 @@ params:
   #
   # Default: `white`
   # STRING; `white`, `black`, or nothing
-  headerTextColor: white
+  headerTextColor: black
 
   # Google Analytics tracking code
   #
