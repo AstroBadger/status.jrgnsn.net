@@ -134,6 +134,9 @@ params:
       description: My main blog and website.
       category: Uncategorized
       partial: custom/jrgnsn.net_badges
+    - name: cgit.jrgnsn.net
+      description: My code mirror and archive.
+      category: Uncategorized
     - name: photos.jrgnsn.net
       description: My personal, anti-social, photo-sharing site.
       category: Uncategorized
